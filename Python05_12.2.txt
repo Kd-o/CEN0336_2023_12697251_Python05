@@ -1,0 +1,3 @@
+Caso seja o conjunto seja feito por meio da funcao set(), o resultado obtido sera um conjunto contendo somente os caracteres unicos da sequencia, ou seja, "{'G','A','T','C'}".
+
+Caso faca-se o conjunto definindo-se uma variavel como um conjunto de uma string que e a sequencia citada, o resultado seria (assim como na questao 10) um conjunto de um unico elemento que eh a propria sequencia.

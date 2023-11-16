@@ -1,0 +1,5 @@
+Considerando:
+	mySet = set('ATGTGGG')
+	mySet2 = {'ATGCCT'}
+
+Apesar de ambos serem 'Sets' (o que pode ser verificado pela funcao 'type()'), a funcao set() separa a string em um conjunto de caracteres unicos, ou seja, chamar por mySet resulta em "{'A','T','G'}", enquanto chamar por mySet2 resulta em "{'ATGCCT'}", uma string unica.
